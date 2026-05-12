@@ -130,4 +130,4 @@ mvn spring-boot:run
 ## 👤 Author
 **Adarsh Bindal**
 *   [GitHub](https://github.com/adarsh062702)
-*   [LinkedIn](https://www.linkedin.com/in/adarshbindal/)
+*   [LinkedIn]([https://www.linkedin.com/in/adarshbindal/](https://www.linkedin.com/in/adarsh-bindal-1b5769221/))
