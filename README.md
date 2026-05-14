@@ -117,6 +117,17 @@ git clone https://github.com/adarsh062702/trading-app-backend.git
 mvn spring-boot:run
 ```
 
+# Screenshots
+
+## Swagger API Overview
+![Swagger Overview](screenshots/swagger-overview.png)
+
+## API Controllers
+![Swagger Controllers](screenshots/swagger-controllers.png)
+
+## API Schemas
+![Swagger Schemas](screenshots/swagger-schemas.png)
+
 ---
 
 ## 🔮 Roadmap
